@@ -1,0 +1,13 @@
+NAMA  : M ABDI
+KELAS   : TK2B
+MATA KULIAH : TEORI PEMROGRAMAN MICROSEVICE
+TUGAS  : MEMBUAT KESIMPULAN Belajar Microservices - 8 Messaging
+
+Tentang Messaging dalam Pemrograman Microservice:
+•Decoupling: Messaging memisahkan komunikasi antar microservice, memungkinkan mereka untuk beroperasi secara independen.
+•Skalabilitas: Pesan-pesan dapat diproses secara terdistribusi, memungkinkan skalabilitas sistem secara efisien.
+•Ketahanan: Messaging memungkinkan sistem untuk bertahan dari kegagalan komponen individu dengan menyimpan pesan sementara.
+•Asynchronous Processing: Pemrosesan pesan secara asynchronous memungkinkan sistem untuk beroperasi lebih efisien tanpa harus menunggu respons langsung.
+•Event-Driven Architecture: Messaging mendukung arsitektur berbasis event, memungkinkan sistem untuk menjadi lebih responsif terhadap peristiwa-peristiwa yang terjadi secara real-time.
+
+Dalam rangka merancang dan mengimplementasikan arsitektur microservice yang efektif, pemahaman yang baik tentang messaging sangatlah krusial. Dengan menggunakan teknologi messaging yang tepat, kita dapat membangun sistem yang scalable, available, dan responsive.

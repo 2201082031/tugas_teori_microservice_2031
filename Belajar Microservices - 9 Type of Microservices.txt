@@ -1,0 +1,20 @@
+NAMA  : M ABDI
+KELAS   : TK2B
+MATA KULIAH : TEORI PEMROGRAMAN MICROSEVICE
+TUGAS  : MEMBUAT KESIMPULAN Belajar Microservices - 9 Type of Microservices
+
+kesimpulan dari video "Belajar Microservices - 9 Jenis Microservices":
+
+•Monolithic Microservices: Ini adalah pendekatan awal dalam pengembangan aplikasi, di mana semua fitur dan fungsionalitas terdapat dalam satu aplikasi tunggal.
+•Decomposed Microservices: Pendekatan ini melibatkan pembagian aplikasi monolit menjadi bagian-bagian yang lebih kecil, disebut microservice, yang masing-masing bertanggung jawab atas satu atau beberapa fungsi tertentu.
+•Minimalistic Microservices: Jenis microservice ini terdiri dari fungsi-fungsi yang sangat kecil dan sederhana, dengan tujuan untuk melakukan satu tugas secara efisien.
+•Event-Driven Microservices: Microservice ini berkomunikasi melalui peristiwa-peristiwa atau event yang terjadi di dalam sistem, memungkinkan arsitektur yang fleksibel dan skalabilitas yang lebih baik.
+•API Microservices: Microservice ini mengekspos API yang diperlukan untuk berkomunikasi dengan microservice lainnya, memungkinkan integrasi yang mudah antara berbagai layanan.
+•Database Microservices: Microservice ini bertanggung jawab atas akses dan manajemen data tertentu dalam sistem, memisahkan tanggung jawab data dari layanan lainnya.
+•Containerized Microservices: Jenis microservice ini dijalankan dalam wadah atau container, yang memungkinkan untuk pengelolaan yang lebih mudah dan skalabilitas yang lebih baik.
+•Orchestrated Microservices: Microservice ini dikelola dan diatur oleh sebuah orchestrator, seperti Kubernetes, untuk memastikan kesehatan dan kinerja sistem secara keseluruhan.
+•Serverless Microservices: Pendekatan ini melibatkan penggunaan komputasi tanpa server, di mana kode dieksekusi secara otomatis oleh penyedia cloud, tanpa perlu mengelola infrastruktur secara langsung.
+Dengan memahami jenis-jenis microservices ini, pengembang dapat memilih pendekatan yang paling sesuai dengan kebutuhan dan tujuan aplikasi yang sedang dibangun.
+
+
+

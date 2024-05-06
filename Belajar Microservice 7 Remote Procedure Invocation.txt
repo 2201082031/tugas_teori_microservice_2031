@@ -1,0 +1,10 @@
+NAMA  : M ABDI
+KELAS   : TK2B
+MATA KULIAH : TEORI PEMROGRAMAN MICROSEVICE
+TUGAS  : MEMBUAT KESIMPULAN Microservices - 7 Remote Procedure Invocation
+
+Nah jadi kesimpulannya  setelah tadi kita tahu kalau semisalnya kita mau mengekspos untuk sebuah data atau sebuah API  kita bisa membuat remote prosedur invocation nah contohnya semisalnya jadih kasusnya order service butuh data di produk ini diproduk service menggunakan API atau RESTful API  atau http nanti order service ini butuh data produknya dia cukup memanggil  API ke Product Service  keuntungan menggunakan RPI 
+•Sederhana dan Mudah 
+•Biasanya digunakan untuk komunikasi Request-Reply
+•Biasanya digunakan untuk proses Sync(yang butuh menunggu jawaban)
+
