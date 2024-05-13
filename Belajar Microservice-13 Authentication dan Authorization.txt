@@ -1,0 +1,14 @@
+NAMA  : M ABDI
+KELAS   : TK2B
+MATA KULIAH : TEORI PEMROGRAMAN MICROSEVICE
+TUGAS  : MEMBUAT KESIMPULAN Microservices Authentication dan Authorization
+
+Authentication adalah Memvalidasi kredensial untuk menverifikasi pemilik identitas.
+Contoh proses Authentication adalah proses login menggunakan username dan password,dan banyak yang lainnya. Authorization adalah proses yang dilakukan setelah proses Authentication. Menvalidasi apakah pemilik identitas memiliki hak akses untuk mengakses resource yang diminta. Contoh proses Authorization adalah 
+Access-Control List,dan banyak yang lainnya 
+teknologi pendukung:
+Secure Cokiee
+Oauth
+JSON Web Token
+Basc Auth
+Api Key /Secret Key

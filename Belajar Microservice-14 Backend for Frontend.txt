@@ -1,0 +1,29 @@
+NAMA  : M ABDI
+KELAS   : TK2B
+MATA KULIAH : TEORI PEMROGRAMAN MICROSEVICE
+TUGAS  : MEMBUAT KESIMPULAN Microservices Backend for Fronted
+
+Backend for Frontend
+
+- Backend for Frontend adalah menyediakaan backend khusus untuk fronted tertentu
+- Biasanya satu backend akan melayani satu frontend specific
+- Makin banyak jenis frontend,makin banyak backend yang dibuat
+Permasalahan  Banyak Jenis Frontend 
+- Tiap fronted punya mekanisme autentikasi berbeda
+- Kecepatan bandwitch tiap frontend berbeda 
+- Api yang dibutuhkan tiap frontend berbeda
+- Semua kebutuhan jenis frontend harus diimplementasikan disatu API Gateway
+Keuntungan Backend for Frontend 
+- Pengembangan backend untuk tiap frontend bisa terisolasi satu sama lain
+- Logic untuk fronted tidak tercampur disatu backend
+Alternative Backend for Frontend
+- GraphQL adalah query language API 
+- GraphQL dapat digunakan untuk memanipulai response API secara runtime
+- Frontend bebas menentukan data apa saja yang ingin didapatkan
+- Backend hanya perlu menyediakan data lengkap dari frontend bisa dengan bebas menentukan data yang diinginkan.
+Kekurangan Menggunakan GraphQL
+- Butuh melakukan development GraphQL Server di Backend 
+- Butuh melakukan development GraphQL Server di Frontend
+
+
+
